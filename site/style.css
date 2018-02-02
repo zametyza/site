@@ -1,0 +1,24 @@
+img {
+  margin-left: 300px;
+}
+
+table {
+margin-left: 460px;
+text-align: center;
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+background: #ECE9E0;
+}
+h1 {
+  font-family: "Times New Roman", "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  color: purple;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman", "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  text-align: center;
+}
+h2 {
+  font-family: "Times New Roman", "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  color: purple;
+  text-align: center;
+}
